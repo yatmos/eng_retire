@@ -6,10 +6,39 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Nov 2018 16:49:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Nov 2018 16:49:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Prof. Jung-Hoon Kim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2018/11/19/seminar_junghoonkim/</link>
+      <pubDate>Mon, 19 Nov 2018 16:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2018/11/19/seminar_junghoonkim/</guid>
+      <description>Research on Aviation Turbulence Forecasting 
+Prof. Jung-Hoon Kim (Seoul National University) November 20, 2018 (Tuesday) 16:00 Science Hall #553</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Dr. Fabian Hoffmann</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2018/11/15/seminar_fabian/</link>
+      <pubDate>Thu, 15 Nov 2018 16:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2018/11/15/seminar_fabian/</guid>
+      <description>Entrainment and Mixing in Warm Boundary Layer Clouds: Development and Results of an Explicit Subgrid-Scale Scheme for Large-Eddy Simulations with Particle-Based Microphysics</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Rokjin J. Park</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2018/11/13/seminar_rokjinpark/</link>
+      <pubDate>Tue, 13 Nov 2018 16:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2018/11/13/seminar_rokjinpark/</guid>
+      <description>A global simulation of organic aerosols: Implications for climate and air quality 
+Prof. Rokjin J. Park (Seoul National University) November 13, 2018 (Tuesday) 16:00 Science Hall #553</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Brian C. McDonald</title>
