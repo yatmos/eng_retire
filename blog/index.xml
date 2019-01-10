@@ -6,10 +6,20 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Dec 2018 16:49:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 2019 12:49:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Jonathan Guerrette</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/01/10/seminar_jonathan/</link>
+      <pubDate>Thu, 10 Jan 2019 12:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/01/10/seminar_jonathan/</guid>
+      <description>Constraining aerosol emissions with 4D-Var in WRFDA 
+Dr. Jonathan Guerrette (NCAR) January 15, 2019 (Tuesday) 11:00 Science Hall #553</description>
+    </item>
     
     <item>
       <title>[Seminar] Dr. Hyun-Joo Choi</title>
