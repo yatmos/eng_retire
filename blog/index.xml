@@ -6,10 +6,20 @@
     <description>Recent content in news on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 06:48:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 06:48:02 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/eng/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Seminar] Dr. Alexei Lyapustin</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/04/24/seminar_alexeilyapustin/</link>
+      <pubDate>Wed, 24 Apr 2019 06:48:02 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/04/24/seminar_alexeilyapustin/</guid>
+      <description>High-resolution Aerosol Retrievals with Algorithm MAIAC from Geostationary Satellites 
+Dr. Alexei Lyapustin (NASA Goddard Space Flight Center) April 30, 2019 (Tuesday) 16:00 Science Hall #553</description>
+    </item>
     
     <item>
       <title>[Seminar] Prof, Kazuhito Ichii</title>
@@ -22,12 +32,12 @@ Kazuhito Ichii (Professor, Center for Environmental Remote Sensing, Chiba Univer
     </item>
     
     <item>
-      <title>[Seminar] Director-General, Jae-won Lee</title>
+      <title>[Seminar] Dr. Jae-won Lee</title>
       <link>https://atmos.yonsei.ac.kr/eng/blog/2019/04/15/seminar_jaeonelee/</link>
       <pubDate>Mon, 15 Apr 2019 03:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/04/15/seminar_jaeonelee/</guid>
-      <description>항공기상업무: 어제, 오늘 그리고 내일 Jae-won Lee (Director-General,</description>
+      <description>항공기상업무: 어제, 오늘 그리고 내일 Dr. Jae-won Lee</description>
     </item>
     
     <item>
@@ -41,7 +51,7 @@ Sujong Jeong (Professor, Department of Environmental Planning, Graduate School o
     </item>
     
     <item>
-      <title>[Seminar] Director, Jung-Hwan Lee</title>
+      <title>[Seminar] Dr. Jung-Hwan Lee</title>
       <link>https://atmos.yonsei.ac.kr/eng/blog/2019/03/28/seminar_junghwanlee/</link>
       <pubDate>Thu, 28 Mar 2019 06:48:02 +0900</pubDate>
       
@@ -50,12 +60,12 @@ Sujong Jeong (Professor, Department of Environmental Planning, Graduate School o
     </item>
     
     <item>
-      <title>[Seminar] Director, Im-Seok Chang</title>
+      <title>[Seminar] Dr. Im-Seok Chang</title>
       <link>https://atmos.yonsei.ac.kr/eng/blog/2019/03/22/seminar_imseokchang/</link>
       <pubDate>Fri, 22 Mar 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/03/22/seminar_imseokchang/</guid>
-      <description>초미세먼지 현황과 2019년 고농도 사례 Im-Seok Chang</description>
+      <description>초미세먼지 현황과 2019년 고농도 사례 Dr. Im-Seok</description>
     </item>
     
     <item>
@@ -75,6 +85,15 @@ Sujong Jeong (Professor, Department of Environmental Planning, Graduate School o
       <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/03/11/seminar_junshikum/</guid>
       <description>Microphysical characteristics of frozen droplet aggregates from deep convective clouds 
 Prof. Junshik Um (Pusan National University) March 15, 2019 (Friday) 13:30 Science Hall #551</description>
+    </item>
+    
+    <item>
+      <title>[Seminar] Prof. Jeongsoo Kim</title>
+      <link>https://atmos.yonsei.ac.kr/eng/blog/2019/03/10/seminar_chunhocho/</link>
+      <pubDate>Sun, 10 Mar 2019 06:48:02 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/eng/blog/2019/03/10/seminar_chunhocho/</guid>
+      <description>우리나라 미세먼지 특징과 원인 Prof. Jeongsoo Kim (Hanseo University) March 12,</description>
     </item>
     
     <item>
