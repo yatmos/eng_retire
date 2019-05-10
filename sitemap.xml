@@ -306,7 +306,22 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/people/inpyopark/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/people/jaeyoupkim/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/eng/people/jeongwonkim/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/people/joonsungpark/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -418,6 +433,16 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/people/yeonjuchoi/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/blog/2019/05/10/seminar_changkikim/</loc>
+    <lastmod>2019-05-10T08:48:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/eng/blog/2019/05/07/seminar_hajoonsong/</loc>
+    <lastmod>2019-05-07T08:48:02+09:00</lastmod>
   </url>
   
   <url>
@@ -734,7 +759,7 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/categories/seminar/</loc>
-    <lastmod>2019-04-24T08:48:02+09:00</lastmod>
+    <lastmod>2019-05-10T08:48:02+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -757,7 +782,7 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/</loc>
-    <lastmod>2019-04-24T08:48:02+09:00</lastmod>
+    <lastmod>2019-05-10T08:48:02+09:00</lastmod>
   </url>
   
 </urlset>
